@@ -1,5 +1,4 @@
 # atividade7
-   Git e Github
  Principais Funções do
   Git e GitHub
 Git:
